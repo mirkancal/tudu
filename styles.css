@@ -107,3 +107,7 @@ background-repeat: repeat-x;
 .todo-container:first-of-type {
   border-top: 1px solid #333;
 }
+
+.todo-text {
+	color: #ffffff;
+}
